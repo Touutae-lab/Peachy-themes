@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "peachy-themes"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Peachy Themes Extentions for Vscode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Sweety theme for Vscode
+I hope you like it <3
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+<img width="1440" alt="Screen Shot 2565-05-19 at 18 09 21" src="https://user-images.githubusercontent.com/58826535/169280008-c2c4516e-9b3f-435a-9f33-42d2ded91236.png">
+
+# Base on
+This Peahcy Themes base on Pink cat boo
+
+**Link**
+https://github.com/ftsamoyed/PinkCatBoo
 
 **Enjoy!**
