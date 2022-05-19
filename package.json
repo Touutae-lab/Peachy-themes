@@ -1,0 +1,21 @@
+{
+    "name": "peachy-themes",
+    "displayName": "Peachy Themes",
+    "description": "This exention inspired by Pink Cat boo  Sweet theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Peachy Themes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Peachy Themes-color-theme.json"
+            }
+        ]
+    }
+}
